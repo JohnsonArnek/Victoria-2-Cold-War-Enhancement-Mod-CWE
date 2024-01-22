@@ -3,102 +3,102 @@
 	officers = {
 		culture = greek
 		religion = orthodox 
-		size = 159
+		size = 150
 	 } 
 	officers = {
 		culture = greek
 		religion = secularism
-		size = 10
+		size = 50
 	 } 
 	soldiers = {
 		culture = greek
 		religion = orthodox 
-		size = 642
+		size = 900
 	 } 
 	soldiers = {
 		culture = greek
 		religion = secularism
-		size = 40
+		size = 50
 	 } 
 	capitalists = {
 		culture = greek
 		religion = orthodox 
-		size = 676
+		size = 1000
 	 } 
 	capitalists = {
 		culture = greek
 		religion = secularism
-		size = 43
+		size = 150
 	 } 
 	bureaucrats = {
 		culture = greek
 		religion = orthodox 
-		size = 16
+		size = 50
 	 } 
 	bureaucrats = {
 		culture = greek
 		religion = secularism
-		size = 1
+		size = 100
 	 } 
 	aristocrats = {
 		culture = greek
 		religion = orthodox 
-		size = 84
+		size = 150
 	 } 
 	aristocrats = {
 		culture = greek
 		religion = secularism
-		size = 5
+		size = 150
 	 } 
 	clergymen = {
 		culture = greek
 		religion = orthodox 
-		size = 169
+		size = 200
 	 } 
 	clergymen = {
 		culture = greek
 		religion = secularism
-		size = 10
+		size = 500
 	 } 
 	clerks = {
 		culture = greek
 		religion = orthodox 
-		size = 373
+		size = 500
 	 } 
 	clerks = {
 		culture = greek
 		religion = secularism
-		size = 23
+		size = 200
 	 } 
 	artisans = {
 		culture = greek
 		religion = orthodox 
-		size = 354
+		size = 500
 	 } 
 	artisans = {
 		culture = greek
 		religion = secularism
-		size = 22
+		size = 500
 	 } 
 	craftsmen = {
 		culture = greek
 		religion = orthodox 
-		size = 1139
+		size = 2000
 	 } 
 	craftsmen = {
 		culture = greek
 		religion = secularism
-		size = 72
+		size = 1000
 	 } 
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 13303
+		size = 18250
 	 } 
 	farmers = {
 		culture = greek
 		religion = secularism
-		size = 849
+		size = 1000
 	 } 
 }
 #Zante - Ionian Islands (72000/18000 POPS)
@@ -106,7 +106,7 @@
 	officers = {
 		culture = greek
 		religion = orthodox 
-		size = 159
+		size = 100
 	 } 
 	officers = {
 		culture = greek
@@ -116,47 +116,47 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox 
-		size = 642
+		size = 650
 	 } 
 	soldiers = {
 		culture = greek
 		religion = secularism
-		size = 40
+		size = 50
 	 } 
 	capitalists = {
 		culture = greek
 		religion = orthodox 
-		size = 676
+		size = 650
 	 } 
 	capitalists = {
 		culture = greek
 		religion = secularism
-		size = 43
+		size = 50
 	 } 
 	bureaucrats = {
 		culture = greek
 		religion = orthodox 
-		size = 16
+		size = 100
 	 } 
 	bureaucrats = {
 		culture = greek
 		religion = secularism
-		size = 1
+		size = 50
 	 } 
 	aristocrats = {
 		culture = greek
 		religion = orthodox 
-		size = 84
+		size = 100
 	 } 
 	aristocrats = {
 		culture = greek
 		religion = secularism
-		size = 5
+		size = 50
 	 } 
 	clergymen = {
 		culture = greek
 		religion = orthodox 
-		size = 169
+		size = 150
 	 } 
 	clergymen = {
 		culture = greek
@@ -166,42 +166,42 @@
 	clerks = {
 		culture = greek
 		religion = orthodox 
-		size = 373
+		size = 300
 	 } 
 	clerks = {
 		culture = greek
 		religion = secularism
-		size = 23
+		size = 25
 	 } 
 	artisans = {
 		culture = greek
 		religion = orthodox 
-		size = 354
+		size = 350
 	 } 
 	artisans = {
 		culture = greek
 		religion = secularism
-		size = 22
+		size = 50
 	 } 
 	craftsmen = {
 		culture = greek
 		religion = orthodox 
-		size = 1139
+		size = 1000
 	 } 
 	craftsmen = {
 		culture = greek
 		religion = secularism
-		size = 72
+		size = 100
 	 } 
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 13303
+		size = 8000
 	 } 
 	farmers = {
 		culture = greek
 		religion = secularism
-		size = 849
+		size = 750
 	 } 
 }
 #Athens - Athens (2669000/667250 POPS)
@@ -299,7 +299,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 416875
+		size = 316875
 	 } 
 	craftsmen = {
 		culture = greek
@@ -309,17 +309,17 @@
 	craftsmen = {
 		culture = albanian
 		religion = orthodox 
-		size = 18291
+		size = 8291
 	 }
 	craftsmen = {
 		culture = albanian
 		religion = sunni 
-		size = 1465
+		size = 465
 	 }
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 9102
+		size = 902
 	 }
 	farmers = {
 		culture = albanian
@@ -329,7 +329,7 @@
 	farmers = {
 		culture = indian_muslim
 		religion = sunni 
-		size = 4003
+		size = 403
 	 } 
 }
 #Amfissa - Central Greece (127000/31750 POPS)
@@ -357,7 +357,7 @@
 	capitalists = {
 		culture = greek
 		religion = orthodox 
-		size = 1193
+		size = 2000
 	 } 
 	capitalists = {
 		culture = greek
@@ -417,7 +417,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 4268
+		size = 1268
 	 } 
 	farmers = {
 		culture = albanian
@@ -501,7 +501,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 23587
+		size = 29587
 	 } 
 	farmers = {
 		culture = greek
@@ -667,17 +667,17 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 20224
+		size = 30224
 	 } 
 	farmers = {
 		culture = greek
 		religion = secularism
-		size = 1429
+		size = 3429
 	 }
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 3363
+		size = 1363
 	 } 
 	farmers = {
 		culture = albanian
@@ -760,7 +760,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 25072
+		size = 15072
 	 } 
 	farmers = {
 		culture = greek
@@ -863,7 +863,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 20790
+		size = 19790
 	 } 
 	farmers = {
 		culture = greek
@@ -873,7 +873,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 4153
+		size = 1153
 	 } 
 	farmers = {
 		culture = albanian
@@ -956,17 +956,17 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 22583
+		size = 42583
 	 } 
 	farmers = {
 		culture = greek
 		religion = secularism
-		size = 1177
+		size = 5177
 	 } 
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 2489
+		size = 1489
 	 } 
 	farmers = {
 		culture = albanian
@@ -1065,7 +1065,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 4753
+		size = 1753
 	 } 
 	farmers = {
 		culture = albanian
@@ -1168,7 +1168,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 13303
+		size = 10303
 	 } 
 	farmers = {
 		culture = greek
@@ -1241,7 +1241,7 @@
 	clerks = {
 		culture = greek
 		religion = orthodox 
-		size = 710
+		size = 700
 	 } 
 	clerks = {
 		culture = greek
@@ -1251,7 +1251,7 @@
 	artisans = {
 		culture = greek
 		religion = orthodox 
-		size = 674
+		size = 650
 	 } 
 	artisans = {
 		culture = greek
@@ -1261,7 +1261,7 @@
 	craftsmen = {
 		culture = greek
 		religion = orthodox 
-		size = 2168
+		size = 2000
 	 } 
 	craftsmen = {
 		culture = greek
@@ -1271,12 +1271,12 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 25313
+		size = 30000
 	 } 
 	farmers = {
 		culture = greek
 		religion = secularism
-		size = 1615
+		size = 1500
 	 } 
 }
 #Cyclades - South Aegean (72000/18000 POPS)
@@ -1364,7 +1364,7 @@
 	craftsmen = {
 		culture = greek
 		religion = orthodox 
-		size = 1139
+		size = 5139
 	 } 
 	craftsmen = {
 		culture = greek
@@ -1374,7 +1374,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 10846
+		size = 25846
 	 } 
 	farmers = {
 		culture = greek
@@ -1384,7 +1384,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox 
-		size = 2457
+		size = 457
 	 } 
 	farmers = {
 		culture = albanian
@@ -1487,7 +1487,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 39906
+		size = 20906
 	 } 
 	farmers = {
 		culture = greek
@@ -1596,5 +1596,2477 @@
 		culture = greek
 		religion = secularism
 		size = 2547
+	 } 
+}
+#Arkadia - Ionian Islands (72000/18000 POPS)
+3381 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 38000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Lakonia - Ionian Islands (72000/18000 POPS)
+3382 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 30000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Hleias - Ionian Islands (72000/18000 POPS)
+3383 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 46000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Kithira - Ionian Islands (72000/18000 POPS)
+3384 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Troizonia - Ionian Islands (72000/18000 POPS)
+3385 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 2000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Hania - Ionian Islands (72000/18000 POPS)
+3386 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 30000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Lasithio - Ionian Islands (72000/18000 POPS)
+3387 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 16000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Hiou - Ionian Islands (72000/18000 POPS)
+3388 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 12000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Fokida - Ionian Islands (72000/18000 POPS)
+3389 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 12000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Fokida - Ionian Islands (72000/18000 POPS)
+3390 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 12000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Preveza - Ionian Islands (72000/18000 POPS)
+3391 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 18000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Thesprotia - Ionian Islands (72000/18000 POPS)
+3392 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 12000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Zakynthos - Ionian Islands (72000/18000 POPS)
+3394 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 8000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Leukas - Ionian Islands (72000/18000 POPS)
+3393 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 8000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Kastoria - Ionian Islands (72000/18000 POPS)
+3395 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 11000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Florina - Ionian Islands (72000/18000 POPS)
+3396 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 17000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Pella - Ionian Islands (72000/18000 POPS)
+3397 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 31000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Pieria - Ionian Islands (72000/18000 POPS)
+3398 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 22000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Grevena - Ionian Islands (72000/18000 POPS)
+3399 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 25
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 21000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Athos - Ionian Islands (72000/18000 POPS)
+3400 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 10
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 1
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 65
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 5
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 65
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 5
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 5
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 10
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 5
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 15
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 1
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 30
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 2
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 35
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 5
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 10
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 100
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 1000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 75
+	 } 
+}
+#Kilkis - Ionian Islands (72000/18000 POPS)
+3401 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 20
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 1000
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 21000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Kavala - Ionian Islands (72000/18000 POPS)
+3402 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 20
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 1000
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 30000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Drama - Ionian Islands (72000/18000 POPS)
+3403 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 20
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 1000
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 27000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
+	 } 
+}
+#Rodopi - Ionian Islands (72000/18000 POPS)
+3404 = {
+	officers = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	officers = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	soldiers = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	soldiers = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	capitalists = {
+		culture = greek
+		religion = orthodox 
+		size = 650
+	 } 
+	capitalists = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	aristocrats = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	clergymen = {
+		culture = greek
+		religion = orthodox 
+		size = 150
+	 } 
+	clergymen = {
+		culture = greek
+		religion = secularism
+		size = 10
+	 } 
+	clerks = {
+		culture = greek
+		religion = orthodox 
+		size = 300
+	 } 
+	clerks = {
+		culture = greek
+		religion = secularism
+		size = 20
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 350
+	 } 
+	artisans = {
+		culture = greek
+		religion = secularism
+		size = 50
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = orthodox 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = greek
+		religion = secularism
+		size = 1000
+	 } 
+	farmers = {
+		culture = greek
+		religion = orthodox 
+		size = 23000
+	 } 
+	farmers = {
+		culture = greek
+		religion = secularism
+		size = 750
 	 } 
 }

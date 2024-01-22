@@ -23,7 +23,7 @@
 	capitalists = {
 		culture = greek
 		religion = orthodox 
-		size = 8911
+		size = 4911
 	 } 
 	capitalists = {
 		culture = greek
@@ -63,7 +63,7 @@
 	artisans = {
 		culture = greek
 		religion = orthodox 
-		size = 4832
+		size = 2832
 	 } 
 	artisans = {
 		culture = greek
@@ -73,17 +73,17 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 146939
+		size = 76939
 	 } 
 	farmers = {
 		culture = greek
 		religion = secularism
-		size = 8324
+		size = 4324
 	 }
 	farmers = {
 		culture = bulgarian
 		religion = orthodox 
-		size = 17099
+		size = 7099
 	 }
 	farmers = {
 		culture = bulgarian
@@ -93,12 +93,12 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox 
-		size = 6954
+		size = 2954
 	 }
 	farmers = {
 		culture = romanian
 		religion = secularism
-		size = 1406
+		size = 406
 	 }
 }
 #Florina - Florina (97000/24250 POPS)
@@ -176,7 +176,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 14901
+		size = 24901
 	 } 
 	farmers = {
 		culture = greek
@@ -270,7 +270,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 17186
+		size = 24186
 	 } 
 	farmers = {
 		culture = greek
@@ -374,7 +374,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 26166
+		size = 13166
 	 } 
 	farmers = {
 		culture = greek
@@ -477,7 +477,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 34376
+		size = 14376
 	 } 
 	farmers = {
 		culture = greek
@@ -560,7 +560,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 21213
+		size = 31213
 	 } 
 	farmers = {
 		culture = greek
@@ -669,7 +669,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 20957
+		size = 23957
 	 } 
 	farmers = {
 		culture = greek
@@ -762,7 +762,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 21893
+		size = 15893
 	 } 
 	farmers = {
 		culture = greek
@@ -845,7 +845,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 21788
+		size = 15788
 	 } 
 	farmers = {
 		culture = greek
@@ -855,7 +855,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox 
-		size = 2723
+		size = 723
 	 } 
 	farmers = {
 		culture = bulgarian
@@ -865,7 +865,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni 
-		size = 3256
+		size = 1256
 	 } 
 }
 #Dedeagatch - Eastern Macedonia and Thrace (153000/38250 POPS)
@@ -943,7 +943,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 26511
+		size = 24511
 	 } 
 	farmers = {
 		culture = greek
@@ -953,7 +953,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni 
-		size = 3056
+		size = 2056
 	 } 
 }
 #Larisa - Thessaly (169000/42250 POPS)
@@ -1031,7 +1031,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 32456
+		size = 38456
 	 } 
 	farmers = {
 		culture = greek
@@ -1114,7 +1114,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 31114
+		size = 26114
 	 } 
 	farmers = {
 		culture = greek
@@ -1124,7 +1124,7 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox 
-		size = 1342
+		size = 342
 	 } 
 	farmers = {
 		culture = romanian
@@ -1207,7 +1207,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox 
-		size = 31114
+		size = 21114
 	 } 
 	farmers = {
 		culture = greek
